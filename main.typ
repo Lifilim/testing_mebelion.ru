@@ -25,7 +25,8 @@
   ),
 )
 
-#include "content/content.typ"
+#include "content/1.typ"
+#include "content/2.typ"
 
 
 
